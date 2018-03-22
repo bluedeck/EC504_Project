@@ -1,4 +1,4 @@
-# EC504_Project
+# EC504_Project -- Nearest Neighbor Search
 ## Rough Timeline:
 - March 24 - March 31: implement kd-tree and LSH
 - March 31 - April 7: Test both algorithm and compare performance
