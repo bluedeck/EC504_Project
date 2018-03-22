@@ -1,4 +1,4 @@
-#LSH
+#Locality Sensitive Hashing
 - Group Members: Yutong Gao, Zhiyuan Ruan, Hongtao Zhao
 - Development Language: Java
 ## Resources
